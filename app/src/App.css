@@ -1,0 +1,19 @@
+.list-group-item{
+  cursor: pointer;
+  text-align: center;
+}
+
+em{
+  font-size: 20px;
+}
+
+
+a{
+  text-decoration: none;
+}
+
+.phone_img{
+  margin: 5px auto;
+  width: 155px;
+  height: 205px;
+}
